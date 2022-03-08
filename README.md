@@ -37,7 +37,7 @@ FourthBrain trains aspiring Machine Learning engineers in the technical and prac
 ● Kubeflow Pipelines using Google Cloud
 ● SSH tunneling and webapp deployment using “ngrok”
 
-# Other Tools taught
+# Other Tools
 ● Data Visualization tools: Grad-CAM, Lime, SHAP
 ● Multi-processing and Distributed processing using Dask, joblib and Pyspark (MLlib)
 ● AutoML for hyper-parameter optimization on Azure and Google Cloud
