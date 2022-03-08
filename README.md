@@ -4,9 +4,10 @@
 
 # Program Outcomes
 FourthBrain trains aspiring Machine Learning engineers in the technical and practical skills necessary to contribute immediately to an AI team. At the end of the Machine Learning Engineer program, students will be able to:
+
 ● Build, validate and test data models via supervised, unsupervised, and semi-supervised methods
 ● Apply Deep Learning methods to computer vision, perception and other scenarios
-● Utilize Generative Adversarial Networks for data and model scaling.
+● Utilize Generative Adversarial Networks for data and model scaling
 ● Apply time series models for contextual learning and inference
 ● Benchmark, optimally parameterize and modularize system frameworks for extendability
 ● Build explainable models by leveraging visualization techniques
@@ -30,16 +31,16 @@ FourthBrain trains aspiring Machine Learning engineers in the technical and prac
 ● ML deployment RestAPIs: Flask, FastApi
 ● Detailed learning of ML deployment friendly libraries: TFLite and TFlite serving using Flask and FastApi
 ● Introduction to to AWS Sagemaker and Ec2 instances
-● ML model and app deployment on AWS (Elastic Beanstalk) and Google Cloud.
-● CI/CD Pipelines, Triggers and deployment on Google cloud using Github.
+● ML model and app deployment on AWS (Elastic Beanstalk) and Google Cloud
+● CI/CD Pipelines, Triggers and deployment on Google cloud using Github
 ● Docker Containers for webapp deployment
-● Kubeflow Pipelines using Google Cloud.
-● SSH tunneling and webapp deployment using “ngrok”.
+● Kubeflow Pipelines using Google Cloud
+● SSH tunneling and webapp deployment using “ngrok”
 
-# Other Tools taught in Part 2
+# Other Tools taught
 ● Data Visualization tools: Grad-CAM, Lime, SHAP
-● Multi-processing and Distributed processing using Dask, joblib and Pyspark (MLlib).
+● Multi-processing and Distributed processing using Dask, joblib and Pyspark (MLlib)
 ● AutoML for hyper-parameter optimization on Azure and Google Cloud
 ● Google AI Platform, and Vision API
-● MLOps for Azure, Google Cloud, AWS.
+● MLOps for Azure, Google Cloud, AWS
 ● Pipeline Design: Kubeflow, MLflow
