@@ -3,7 +3,7 @@
 # MachineLearningEngineerProgram
 
 # Program Outcomes
-FourthBrain trains aspiring Machine Learning engineers in the technical and practical skills necessary to contribute immediately to an AI team. At the end of the Machine Learning Engineer program, students will be able to:
+FourthBrain trains aspiring Machine Learning engineers in the technical and practical skills necessary to contribute immediately to an AI team. FourthBrain Machine Learning Engineers will be able to:
 
 ● Build, validate and test data models via supervised, unsupervised, and semi-supervised methods
 ● Apply Deep Learning methods to computer vision, perception and other scenarios
