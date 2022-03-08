@@ -2,6 +2,10 @@
 
 # MachineLearningEngineer
 
+![image](https://user-images.githubusercontent.com/69506031/157290673-d4299701-3acc-4281-94ac-8d6be848c4e4.png)
+
+![image](https://user-images.githubusercontent.com/69506031/157290772-4baac2c3-a171-4425-9914-924ec5d2b0c2.png)
+
 # Program Outcomes
 FourthBrain trains aspiring Machine Learning engineers in the technical and practical skills necessary to contribute immediately to an AI team. FourthBrain Machine Learning Engineers will be able to:
 
